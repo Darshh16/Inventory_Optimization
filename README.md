@@ -26,3 +26,4 @@ A retail inventory system that supports data-driven restocking and inventory pla
 
 ## 🙋‍♂️ Created by
 Darsh Jilka
+Rishi Kawa
