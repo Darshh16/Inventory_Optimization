@@ -25,5 +25,5 @@ SQL-based Inventory Forecasting &amp; Optimization Project
 A retail inventory system that supports data-driven restocking and inventory planning.
 
 ## 🙋‍♂️ Created by
-Darsh Jilka
+Darsh Jilka <br>
 Rishi Kawa
